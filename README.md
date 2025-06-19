@@ -94,7 +94,8 @@ _Add screenshots of your Jenkins job, DockerHub image, Kubernetes pods, and serv
 ![Screenshot 2025-06-19 194414](https://github.com/user-attachments/assets/79e86773-e767-4c5a-8010-0efd6a6211df)
 ![Screenshot 2025-06-19 194021](https://github.com/user-attachments/assets/bcc9e743-94ee-4b9c-9f88-fab2fe7deacf)
 ![Screenshot 2025-06-19 193515](https://github.com/user-attachments/assets/329c3510-0e16-44a0-9f4e-598c4115e2ad)
-
+![Screenshot 2025-06-19 200952](https://github.com/user-attachments/assets/c2f60a66-9e9b-4f14-8003-be9ab2fe5ba3)
+![Screenshot 2025-06-19 194248](https://github.com/user-attachments/assets/f212b9d9-9679-430b-85d6-635e9c4ad540)
 
 ---
 
