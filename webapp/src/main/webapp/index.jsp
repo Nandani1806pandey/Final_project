@@ -1,4 +1,4 @@
-<html><head><title>pandeyjii</title></head>
+<html><head><title>pandeyji</title></head>
 	<body bgcolor=skyblue>
 <form action="action_page.php">
   <div class="container">
